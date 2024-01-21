@@ -1,0 +1,38 @@
+div{
+/*    text-align: center;*/
+    margin-left: 80px;
+    margin-top: 25px;
+}
+div>span{
+    cursor: pointer;
+}
+img{
+    height: 600px;
+    border-radius: 55px;
+    margin-left: 12px;
+}
+.image{
+    width: 70px;
+}
+.active{
+    width: 800px;
+}
+.hidden{
+    display: none;
+}
+span{
+    position: relative;
+}
+h3{
+    font-size: 23px;
+    color: #ddd;
+    background: linear-gradient(#6f7577,#424344);
+    border-radius: 0 12px 12px 0;
+    letter-spacing: 3px;
+    font-weight: bold;
+    padding: 12px;
+    padding-left: 15px;
+    position: absolute;
+    bottom: 35px;
+    left: 12px;
+}
